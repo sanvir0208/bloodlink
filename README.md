@@ -40,19 +40,31 @@ The system ensures all blood requests are validated carefully before approval, p
 
 ## Output
 Webpage
+
 ![image](https://github.com/user-attachments/assets/46ca5d84-515f-43e2-b07a-22a468e984c4)
 Login
+
 ![image](https://github.com/user-attachments/assets/c1ff28ae-632d-404a-ab20-f1de3432508b)
-Eligibility
+
+eligibility
+
 ![image](https://github.com/user-attachments/assets/08dd18b0-8313-409b-ad46-80e527b6b313)
+
 Donor Dashboard
+
 ![image](https://github.com/user-attachments/assets/974be6c1-4e09-4ffd-8974-e74330d738fa)
+
 Patient Dashboard
+
 ![image](https://github.com/user-attachments/assets/2da3a0b3-d1f9-44cd-89ac-0932f23ca51c)
+
 Admin(Hospitals/Blood banks) dashboard
+
 ![image](https://github.com/user-attachments/assets/7fffda2d-4cbe-4886-ba7e-7a5df367f789)
 ![image](https://github.com/user-attachments/assets/2c10be2c-c093-4eae-9f29-289ef96ec21d)
+
 Admin can accept or reject the blood requests
+
 ![image](https://github.com/user-attachments/assets/a20bcabf-43be-4fdf-b6c5-15587accbc08)
 ![image](https://github.com/user-attachments/assets/eb58c768-b2a3-4ba4-b4b4-65b95f6a5036)
 
